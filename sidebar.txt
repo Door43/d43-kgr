@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kgr:home|Door43 (kgr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kgr|d43-kgr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kgr/archive/master.zip|d43-kgr.zip]]
+
+**Recent Changes**
+{{changes>ns = kgr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kgr|Ethnologue data]]
+
